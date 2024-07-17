@@ -9,9 +9,6 @@ The Dennis Shirt Sales Analysis project aims to analyze sales data to identify t
 
 
 
-## Steps Followed 
-
-
 
 ## Requirement Gathering
 - **Business Requirements Document (BRD)**
@@ -22,6 +19,7 @@ The Dennis Shirt Sales Analysis project aims to analyze sales data to identify t
 
 ## Architecture of Project
 - Detailed architecture design including data flow, storage, processing, and visualization layers.
+  
 
 ## Azure Services
 - **Azure Data Factory (ADF)**
@@ -31,6 +29,8 @@ The Dennis Shirt Sales Analysis project aims to analyze sales data to identify t
 
 ## Data Cleaning and Transformation
 - Data pre-processing, cleaning, and transformation tasks to prepare the data for analysis.
+- ![image](https://github.com/user-attachments/assets/c121a999-9d83-4bdc-b2a5-32e7bbe3073b)
+
 
 ## Building ETL Pipeline
 - Creating ETL pipelines using Azure Data Factory to extract, transform, and load data.
